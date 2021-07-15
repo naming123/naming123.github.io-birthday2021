@@ -112,7 +112,7 @@ input {
 }
 .table {
   height: 750px;
-  width: 750px;
+  width: 850px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -145,7 +145,7 @@ input {
 .happy_answer {
   background-color: #4b61cf;
   height: 150px;
-  width: 600px;
+  width: 700px;
   display: flex;
   flex-direction: row;
   justify-content: center;
